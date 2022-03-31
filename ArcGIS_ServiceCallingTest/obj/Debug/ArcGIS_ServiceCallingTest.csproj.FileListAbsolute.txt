@@ -1,0 +1,24 @@
+G:\For uploading to github\GSEC\ArcGIS_ServiceCallingTest\obj\Debug\ArcGIS_ServiceCallingTest.csprojAssemblyReference.cache
+G:\For uploading to github\GSEC\ArcGIS_ServiceCallingTest\obj\Debug\ArcGIS_ServiceCallingTest.csproj.CoreCompileInputs.cache
+G:\For uploading to github\GSEC\ArcGIS_ServiceCallingTest\bin\Debug\ArcGIS_ServiceCallingTest.exe.config
+G:\For uploading to github\GSEC\ArcGIS_ServiceCallingTest\bin\Debug\ArcGIS_ServiceCallingTest.exe
+G:\For uploading to github\GSEC\ArcGIS_ServiceCallingTest\bin\Debug\ArcGIS_ServiceCallingTest.pdb
+G:\For uploading to github\GSEC\ArcGIS_ServiceCallingTest\bin\Debug\ArcGIS_ServiceCallingWrapper.dll
+G:\For uploading to github\GSEC\ArcGIS_ServiceCallingTest\bin\Debug\Newtonsoft.Json.dll
+G:\For uploading to github\GSEC\ArcGIS_ServiceCallingTest\bin\Debug\ArcGIS_ServiceCallingWrapper.pdb
+G:\For uploading to github\GSEC\ArcGIS_ServiceCallingTest\bin\Debug\Newtonsoft.Json.xml
+G:\For uploading to github\GSEC\ArcGIS_ServiceCallingTest\obj\Debug\ArcGIS_ServiceCallingTest.csproj.CopyComplete
+G:\For uploading to github\GSEC\ArcGIS_ServiceCallingTest\obj\Debug\ArcGIS_ServiceCallingTest.exe
+G:\For uploading to github\GSEC\ArcGIS_ServiceCallingTest\obj\Debug\ArcGIS_ServiceCallingTest.pdb
+G:\Shehab-Github\ArcGIS-REST-Wrapper\ArcGIS_ServiceCallingTest\bin\Debug\ArcGIS_ServiceCallingTest.exe.config
+G:\Shehab-Github\ArcGIS-REST-Wrapper\ArcGIS_ServiceCallingTest\bin\Debug\ArcGIS_ServiceCallingTest.exe
+G:\Shehab-Github\ArcGIS-REST-Wrapper\ArcGIS_ServiceCallingTest\bin\Debug\ArcGIS_ServiceCallingTest.pdb
+G:\Shehab-Github\ArcGIS-REST-Wrapper\ArcGIS_ServiceCallingTest\bin\Debug\ArcGIS_ServiceCallingWrapper.dll
+G:\Shehab-Github\ArcGIS-REST-Wrapper\ArcGIS_ServiceCallingTest\bin\Debug\Newtonsoft.Json.dll
+G:\Shehab-Github\ArcGIS-REST-Wrapper\ArcGIS_ServiceCallingTest\bin\Debug\ArcGIS_ServiceCallingWrapper.pdb
+G:\Shehab-Github\ArcGIS-REST-Wrapper\ArcGIS_ServiceCallingTest\bin\Debug\Newtonsoft.Json.xml
+G:\Shehab-Github\ArcGIS-REST-Wrapper\ArcGIS_ServiceCallingTest\obj\Debug\ArcGIS_ServiceCallingTest.csprojAssemblyReference.cache
+G:\Shehab-Github\ArcGIS-REST-Wrapper\ArcGIS_ServiceCallingTest\obj\Debug\ArcGIS_ServiceCallingTest.csproj.CoreCompileInputs.cache
+G:\Shehab-Github\ArcGIS-REST-Wrapper\ArcGIS_ServiceCallingTest\obj\Debug\ArcGIS_ServiceCallingTest.csproj.CopyComplete
+G:\Shehab-Github\ArcGIS-REST-Wrapper\ArcGIS_ServiceCallingTest\obj\Debug\ArcGIS_ServiceCallingTest.exe
+G:\Shehab-Github\ArcGIS-REST-Wrapper\ArcGIS_ServiceCallingTest\obj\Debug\ArcGIS_ServiceCallingTest.pdb
