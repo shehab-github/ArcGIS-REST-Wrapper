@@ -13,7 +13,6 @@ namespace ArcGIS_ServiceCallingTest
                 Where = "OBJECTID = 4",
                 ResultFormat = Format.json
             };
-            query.BuildQuery();
 
             var result = queryTask.Execute(query);
 
