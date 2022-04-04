@@ -8,7 +8,7 @@ namespace ArcGIS_ServiceCallingWrapper.Helpers
         public CustomFormUrlEncodedContent Content { get; private set; }
 
         /// <summary>
-        /// Creates an instance with all defaults. You must call "BuildQuery" before using the object.
+        /// Creates an instance with all defaults.
         /// </summary>
         public Query()
         {
@@ -25,7 +25,7 @@ namespace ArcGIS_ServiceCallingWrapper.Helpers
             Content = new CustomFormUrlEncodedContent(queryParams);
         }
 
-        public void BuildQuery()
+        internal void BuildQuery()
         {
             string orderByFields = OrderByFields?.Aggregate((a, b) => a + "," + b) ?? "";
             string groupByStats = GroupByFieldsForStatistics?.Aggregate((a, b) => a + "," + b) ?? "";

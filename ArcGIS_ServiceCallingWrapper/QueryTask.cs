@@ -32,6 +32,9 @@ namespace ArcGIS_ServiceCallingWrapper.Helpers
         {
             string jsonResult = null;
 
+            if (query.Content is null)
+                query.BuildQuery();
+
             using (HttpClient client = new HttpClient())
             {
                 var response = client.PostAsync(this.serviceUrl + "/query", query.Content).Result;
