@@ -1,5 +1,7 @@
-﻿using ArcGIS_ServiceCallingWrapper.Helpers;
+﻿using ArcGIS_ServiceCallingWrapper;
+using Newtonsoft.Json;
 using System;
+
 
 namespace ArcGIS_ServiceCallingTest
 {
@@ -7,10 +9,10 @@ namespace ArcGIS_ServiceCallingTest
     {
         static void Main(string[] args)
         {
-            QueryTask queryTask = new QueryTask("https://sampleserver6.arcgisonline.com/arcgis/rest/services/Census/MapServer/1");
+            QueryTask queryTask = new QueryTask("https://sampleserver6.arcgisonline.com/arcgis/rest/services/Census/MapServer/3");
             Query query = new Query
             {
-                Where = "OBJECTID = 4",
+                Where = "OBJECTID = 10",
                 ResultFormat = Format.json
             };
 
@@ -21,5 +23,6 @@ namespace ArcGIS_ServiceCallingTest
             Console.ReadKey();
 
         }
+
     }
 }

@@ -1,7 +1,8 @@
-﻿using System.Collections.Generic;
+﻿using ArcGIS_ServiceCallingWrapper.Helpers;
+using System.Collections.Generic;
 using System.Linq;
 
-namespace ArcGIS_ServiceCallingWrapper.Helpers
+namespace ArcGIS_ServiceCallingWrapper
 {
     public class Query
     {

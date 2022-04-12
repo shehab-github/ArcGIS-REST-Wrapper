@@ -2,7 +2,7 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace ArcGIS_ServiceCallingWrapper.Helpers
+namespace ArcGIS_ServiceCallingWrapper
 {
     public class QueryTask
     {

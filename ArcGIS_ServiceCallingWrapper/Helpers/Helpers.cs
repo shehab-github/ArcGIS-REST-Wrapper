@@ -92,5 +92,16 @@ namespace ArcGIS_ServiceCallingWrapper.Helpers
             }
             return token;
         }
+
+        /// <summary>
+        /// Convert given json to indented one.
+        /// </summary>
+        /// <param name="json"></param>
+        /// <returns></returns>
+        public static string PrettyJson(string json)
+        {
+            dynamic parsedJson = JsonConvert.DeserializeObject(json);
+            return JsonConvert.SerializeObject(parsedJson, Formatting.Indented);
+        }
     }
 }
