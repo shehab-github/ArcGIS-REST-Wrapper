@@ -10,8 +10,7 @@ You can use it as follow in your .Net code.
                 Where = "OBJECTID = 4",
                 ResultFormat = Format.json
             };
-            query.BuildQuery();
+   
 
             var result = queryTask.Execute(query);
             
-BuildQuery :: is used to create the required params for the request. It's not required if you will pass the key value pairs to the Query Constructor.
