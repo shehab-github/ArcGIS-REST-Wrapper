@@ -4,7 +4,7 @@
 You can use it as follow in your .Net code.
 
 
-            QueryTask queryTask = new QueryTask("https://sampleserver6.arcgisonline.com/arcgis/rest/services/Census/MapServer/1");
+            QueryTask queryTask = new QueryTask("");
             Query query = new Query
             {
                 Where = "OBJECTID = 4",
