@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Helpers\CustomFormUrlEncodedContent.cs" />
     <Compile Include="Helpers\Helpers.cs" />
+    <Compile Include="Helpers\Validators.cs" />
     <Compile Include="JsonConverters\JsonDateTimeConverter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Query.cs" />
